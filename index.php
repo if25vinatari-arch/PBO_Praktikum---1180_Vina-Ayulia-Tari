@@ -5,7 +5,7 @@ require('./PropertyConstant.php');
 
 use Pbo\Marketplace\Produk;
 
-//object//
+//object
 $produk = new Produk();
 
 $produk->setKode('P001')
